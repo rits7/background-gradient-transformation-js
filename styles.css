@@ -21,7 +21,7 @@ h3 {
 	font: 900 1em 'Raleway', sans-serif;
 	color: rgba(0,0,0,.5);
 	text-align: center;
-	text-transform: lowercase;
+	text-transform: capitalize;
 	letter-spacing: 0.005em;
 
 }
